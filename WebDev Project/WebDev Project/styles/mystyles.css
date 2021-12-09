@@ -1,0 +1,53 @@
+.custombody
+{background-image:linear-gradient(rgba(15, 47, 45, 0.65), rgba(15, 46, 47, 0.65)), url("../images/alaska.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.custombody2
+{background-image:linear-gradient(rgba(15, 47, 45, 0.65), rgba(15, 46, 47, 0.65)), url("../images/grandcanyon.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.customcolor
+{background-color: rgba(255, 144, 124, 0.9);
+    
+}
+.customcta{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: rgba(255, 144, 124, 0.9);
+}
+.custom-site-heading-upper {
+        display:block ;
+        color:rgba(255, 144, 124, 0.9);
+        font-size: 3rem;
+        font-weight: 800;
+}
+.custom-site-heading-lower {
+    font-size: 5rem;
+    font-weight: 400;
+    line-height: 4rem;
+}
+.custom-page-section {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.custom-section-heading-upper {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.custom-section-heading-lower {
+    display: block;
+    font-size: 3rem;
+    font-weight: 500;
+}
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:20px;
+    width: 40%; 
+}
